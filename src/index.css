@@ -1,0 +1,14 @@
+#posts-index img {
+  width: 300px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+header {
+  background-color: rgb(168, 94, 94);
+  color: white;
+  padding: 1em;
+}
